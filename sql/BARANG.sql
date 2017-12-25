@@ -1,0 +1,17 @@
+﻿SET search_path TO SIANGBANG;
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('1','sapien',27,'pellentesque','eu magna vulputate luctus cum',NULL,'swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('2','et',100,'sem','sed magna at nunc commodo',NULL,'bebenezer1');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('3','bibendum',74,'in','sapien varius ut blandit',NULL,'swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('4','lorem',67,'nibh','nam congue risus','nisi','bohern2');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('5','enim',34,'id','felis','convallis','bohern2');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('6','metus',6,'porttitor','id','cubilia','swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('7','ultrices',47,'ut','sem sed sagittis nam congue',NULL,'swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('8','rutrum',25,'sit','congue',NULL,'bohern2');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('9','ac',67,'convallis','quisque arcu libero rutrum ac',NULL,'bebenezer1');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('10','donec',1,'ut','phasellus',NULL,'bebenezer1');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('11','massa',98,'lacus','mauris enim','dolor','bohern2');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('12','molestie',91,'dignissim','leo odio porttitor','elementum','bohern2');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('13','porttitor',53,'posuere','blandit nam nulla integer','nam','swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('14','adipiscing',78,'phasellus','vestibulum ante',NULL,'bebenezer1');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('15','nisl',97,'enim','nisi at',NULL,'swhitney0');
+INSERT INTO BARANG(kode_barang,nama_barang,jumlah_barang,jenis_barang,keterangan,foto,username_admin) VALUES ('16','velit',41,'cras','vestibulum sit','lacinia','bebenezer1');
